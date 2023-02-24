@@ -1,7 +1,7 @@
 # HIMT
 The code for our TAFFC 2022 paper (https://ieeexplore.ieee.org/abstract/document/9765342/):
 
-Yu, Jianfei, Kai Chen, and Rui Xia. "Hierarchical interactive multimodal transformer for aspect-based multimodal sentiment analysis." IEEE Transactions on Affective Computing (2022).
+Yu, Jianfei, Kai Chen, and Rui Xia. "Hierarchical Interactive Multimodal Transformer for Aspect-Based Multimodal Sentiment Analysis." IEEE Transactions on Affective Computing (2022).
 
 
 ## Usage
